@@ -1,0 +1,10 @@
+{
+  "base": "https://nopprut.pages.dev",
+  "contact": [
+    {"label": "Hire me on Fastwork", "url": "https://fastwork.co/user/babyiron"},
+    {"label": "Facebook", "url": "https://www.facebook.com/ARutNopprut/"},
+    {"label": "Email", "url": "mailto:r.nopprut@gmail.com"}
+  ],
+  "email": "r.nopprut@gmail.com",
+  "sameAs": ["https://fastwork.co/user/babyiron", "https://www.facebook.com/ARutNopprut/"]
+}
